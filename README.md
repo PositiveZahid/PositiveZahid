@@ -1,5 +1,5 @@
 ## About Me
-Hello! I'm Md. Zahidul Islam, a passionate Software Engineer based in Dhaka, Bangladesh. I have been working at Dhaka Popular Travel Ltd, where I have been involved in developing a B2B flight search portal for agents in Italy. I have a strong interest in web development and a particular focus on creating efficient and user-friendly applications.
+Hello there! I am Md. Zahidul Islam, a Software Engineer based in Dhaka, Bangladesh. I have a strong passion for web development and take pride in creating efficient and user-friendly applications. I am currently employed at Dhaka Popular Travel Ltd, where I am involved in an exciting project. Our team is diligently working on developing a sophisticated B2B flight search portal catering to agents in Italy. We successfully handling over a thousand flight searches on a daily basis, and agents make between 50 to 100 bookings each day. 
 
 
 <!--
