@@ -1,4 +1,6 @@
-### Hi there 👋
+## About Me
+Hello! I'm Md. Zahidul Islam, a passionate Software Engineer based in Dhaka, Bangladesh. I have been working at Dhaka Popular Travel Ltd, where I have been involved in developing a B2B flight search portal for agents in Italy. I have a strong interest in web development and a particular focus on creating efficient and user-friendly applications.
+
 
 <!--
 **PositiveZahid/PositiveZahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
