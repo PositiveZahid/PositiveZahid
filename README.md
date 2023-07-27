@@ -1,5 +1,11 @@
 ## About Me
-Hello there! I am Md. Zahidul Islam, a Software Engineer based in Dhaka, Bangladesh. I have a strong passion for web development and take pride in creating efficient and user-friendly applications. I am currently employed at Dhaka Popular Travel Ltd, where I am working on developing a sophisticated B2B flight search portal catering to agents in Italy. We successfully handle over a thousand flight searches on a daily basis, and agents make between 100 to 200 bookings each day. We have seamlessly integrated Amadeus Web Services API to provide top-notch flight content through our platform. 
+Hello there! I am Md. Zahidul Islam, a Software Engineer based in Dhaka, Bangladesh. I have a strong passion for web development and take pride in creating efficient and user-friendly applications. I am currently employed at Dhaka Popular Travel Ltd, where I am working on developing a sophisticated B2B flight search portal catering to agents in Italy. 
+
+- Currently, we are reliant on Amadeus Web Services as our primary source of real-time flight and pricing data, leveraging their API for seamless integration into our system. We successfully handle over a thousand flight searches on a daily basis, and agents make between 100 to 200 bookings each day. We have integrated Amadeus Web Services API to provide top-notch flight content through our platform. 
+
+- Emirates, one of our major stakeholders, is shifting their business and expressing interest in delivering their special contest via the NDC platform. To accommodate this, we have initiated collaboration with the Farelogix API to integrate NDC data into our existing system.
+
+- We are in the process of planning the development of a B2C portal for our current clients. Additionally, we have intentions to create mobile apps in the near future.
 
 
 <!--
