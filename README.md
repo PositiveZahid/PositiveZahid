@@ -3,6 +3,16 @@ Hello there! I am Md. Zahidul Islam, a Software Engineer based in Dhaka, Banglad
 
 - Our journey began with the realization that EDIFACT contents are the industry standard for travel data, sourced from Amadeus. However, the recent emergence of NDC content has been a game-changer, disrupting the market with its competitive pricing and innovative features. Embracing this shift, we partnered with Farelogix to seamlessly integrate NDC content for Emirates Airlines, diving headfirst into their age-old XML-based web services.
 
+
+GDS Certification Achievements
+
+| Provider    | Location | Standard | Certification Date |
+|-------------|----------|----------|--------------------|
+| Amadeus     | Dhaka    | EDIFACT  | 24 AUG 2023        |
+| Amadeus     | Italy    | NDC      | 27 MAR 2024        |
+| Farelogix   | Dhaka    | NDC      | 30 APR 2024        |
+
+
 - Beyond the technical aspects, my role as project manager involved acting as a bridge. I fostered communication between our clients, stakeholders with diverse needs, and our talented development team.  I translated their requirements into clear tasks, ensuring the entire development process, from coding to rigorous testing, ran smoothly. We are in the process of planning the development of a B2C portal for our current clients. Additionally, we have intentions to create mobile apps in the near future.
 
 <!--
