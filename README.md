@@ -4,7 +4,7 @@ Hello there! I am Md. Zahidul Islam, a Software Engineer based in Dhaka, Banglad
 - Our journey began with the realization that EDIFACT contents are the industry standard for travel data, sourced from Amadeus. However, the recent emergence of NDC content has been a game-changer, disrupting the market with its competitive pricing and innovative features. Embracing this shift, we partnered with Farelogix to seamlessly integrate NDC content for Emirates Airlines, diving headfirst into their age-old XML-based web services.
 
 
-GDS Certification Achievements
+- GDS Certification Achievements
 
 | Provider    | Location | Standard | Certification Date |
 |-------------|----------|----------|--------------------|
