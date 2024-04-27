@@ -1,12 +1,9 @@
 ## About Me
-Hello there! I am Md. Zahidul Islam, a Software Engineer based in Dhaka, Bangladesh. I have a strong passion for web development and take pride in creating efficient and user-friendly applications. I am currently employed at Dhaka Popular Travel Ltd, where I am working on developing a sophisticated B2B flight search portal catering to agents in Italy. 
+Hello there! I am Md. Zahidul Islam, a Software Engineer based in Dhaka, Bangladesh. I have a strong passion for web development and take pride in creating efficient and user-friendly applications. As a software engineer crafting a B2B portal tailored for the European market, my focus lies firmly on meeting the needs of our agents serving across Europe, with a special emphasis on Italy. We successfully handle over a thousand flight searches on a daily basis, and agents make between 100 to 200 bookings each day.
 
-- Currently, we are reliant on Amadeus Web Services as our primary source of real-time flight and pricing data, leveraging their API for seamless integration into our system. We successfully handle over a thousand flight searches on a daily basis, and agents make between 100 to 200 bookings each day. We have integrated Amadeus Web Services API to provide top-notch flight content through our platform. 
+- Our journey began with the realization that EDIFACT contents are the industry standard for travel data, sourced from Amadeus. However, the recent emergence of NDC content has been a game-changer, disrupting the market with its competitive pricing and innovative features. Embracing this shift, we partnered with Farelogix to seamlessly integrate NDC content for Emirates Airlines, diving headfirst into their age-old XML-based web services.
 
-- Emirates, one of our major stakeholders, is shifting their business and expressing interest in delivering their special contest via the NDC platform. To accommodate this, we have initiated collaboration with the Farelogix API to integrate NDC data into our existing system.
-
-- We are in the process of planning the development of a B2C portal for our current clients. Additionally, we have intentions to create mobile apps in the near future.
-
+- Beyond the technical aspects, my role as project manager involved acting as a bridge. I fostered communication between our clients, stakeholders with diverse needs, and our talented development team.  I translated their requirements into clear tasks, ensuring the entire development process, from coding to rigorous testing, ran smoothly. We are in the process of planning the development of a B2C portal for our current clients. Additionally, we have intentions to create mobile apps in the near future.
 
 <!--
 **PositiveZahid/PositiveZahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
